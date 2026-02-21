@@ -4,7 +4,7 @@ package ExercicioArray;
 * Write a Java program to find the sum of digits of each element in an array.
 */
 
-public class Exericicio9 {
+public class Exercicio9 {
     public static void main(String[] args) {
 
         int[] numero = {111, 222, 333, 444, 555, 666, 777, 888, 999};
