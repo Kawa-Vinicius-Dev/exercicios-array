@@ -10,7 +10,9 @@ public class Exercicio10 {
         int[] myarray = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
         int soma = soma(myarray, 0);
+        int maior = maiorNumero(myarray,0);
         System.out.println(soma);
+        System.out.println(maior);
 
     }
 
