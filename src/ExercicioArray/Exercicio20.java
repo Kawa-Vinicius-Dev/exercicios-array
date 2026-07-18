@@ -9,10 +9,10 @@ public class Exercicio20 {
         int [] numeros = new int[]{5, 10, 15, 20, 25, 30, 35};
         int soma = 0;
         int contador = 0;
+        int valorMinimo = 20;
 
         for (int numero : numeros){
-            int valorMim = 20;
-            if (numero > valorMim) {
+            if (numero > valorMinimo) {
                 soma += numero;
                 contador++;
             }
